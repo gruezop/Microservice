@@ -23,7 +23,7 @@ Communication Contract
 
 <img width="514" alt="Screen Shot 2022-10-27 at 8 06 52 PM" src="https://user-images.githubusercontent.com/91290756/198489691-9d4c042b-08a0-44a1-b543-106fd48ac68e.png">
 
-  Sample: https://github.com/gruezop/Sample-UI
+  Sample: https://github.com/gruezop/Test-UI
 
 <img width="829" alt="Screen Shot 2022-10-27 at 7 41 01 PM" src="https://user-images.githubusercontent.com/91290756/198475415-d4df370e-7e6f-4ecd-b4bd-af517ac85ac9.png">
 
