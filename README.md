@@ -1,4 +1,4 @@
-# Price-Microservice - CS 361 
+# Price-Microservice - 
 
 Communication Contract 
 
